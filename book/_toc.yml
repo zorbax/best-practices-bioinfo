@@ -1,0 +1,8 @@
+---
+format: jb-book
+root: index
+parts:
+  - caption: Introduction
+    chapters:
+      - file: content/houston.md
+      - file: content/intro.ipynb
